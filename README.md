@@ -1,6 +1,7 @@
 # Discord-Account-Creator
 
-![8d509c85-3833-482d-a8b9-2ab0a61d](https://github.com/user-attachments/assets/db3b9982-48c3-4dc7-9375-d4a325d44df0)
+![token gen](https://github.com/user-attachments/assets/d900b8b3-5a56-4e08-b460-ff03418e52ac)
+
 
 `📝 How it works:`
 
