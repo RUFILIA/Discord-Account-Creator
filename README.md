@@ -10,10 +10,11 @@ This tool generates verified Discord tokens in no time and offers an optional fr
 
 install python [3.10.3 +](https://www.python.org/downloads/release/python-3103/)
 
-and click the setup.bat to install requirements
-Set proxy and username | Only valid proxies
-run gen.exe
-enjoy the app
+- and click the setup.bat to install requirements
+- Set 'proxy' and 'username' | Only valid proxies
+- run gen.exe
+- enjoy the app
+
 🔥 `Main Features:`
 <br>
 - [x] Check for **spammer** or **locked** flags when registering an account
